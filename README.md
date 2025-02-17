@@ -1,4 +1,4 @@
-# Accuknox_assingment
+# Accuknox_assignment
   This repository contains the implementation of Django signals and a custom Rectangle class in Python.
 
    ## Features
